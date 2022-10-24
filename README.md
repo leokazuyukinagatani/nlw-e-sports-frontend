@@ -74,7 +74,7 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 
 ## Suporte
 
-Para suporte, mande um email para [leokazuyukinagatani@gmail.com](mailto:leokazuyukinagatani@gmail.com?subject=ignitelab-design-system)
+Para suporte, mande um email para [leokazuyukinagatani@gmail.com](mailto:leokazuyukinagatani@gmail.com?subject=nlw-esports-frontend)
 
 
 ## Relacionados
