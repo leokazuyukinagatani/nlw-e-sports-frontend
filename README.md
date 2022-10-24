@@ -1,52 +1,42 @@
-[Tecnologias](#-stack-utilizada) |
-[Como Executar](#-rodando-localmente) |
-[Projeto](#-stack-utilizada) |
-[Testes](#-rodando-os-testes) |
-[Documentação](#-documentação-da-api)  |
-[Next Level](#-melhorias) 
+[Roadmap](#roadmap) |
+[Documentação](#documentação) |
+[Como Executar](#rodando-localmente) |
+[Projeto](#stack-utilizada) |
+[Next Level](#melhorias) 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://global-uploads.webflow.com/632c96a9bfec45360c6f8d0a/632dab005bbf2271c32955e4_projects%20-%20nlw%20esports.jpg)
 
 
-# Título do Projeto
+# NLW eSports - Encontre seu Duo - Frontend React
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
+- Nome do Evento: NLW eSports
+- Data: De 11 a 18 de setembro de 2022
+- Empresa: Rocketseat
+- Evento ministrado por: Diego Schell Fernandes(Co-fundador e CTO na Rocketseat) e Rodrigo Gonçalves Santana(Educator na Rocketseat)
+- Conteúdo: Construção de uma aplicação para encontrar duos(parceiros para jogar), contando com uma versão mobile(ReactNative) e outra web(React) com um backend desenvolvido em NodeJS
 
 ## Roadmap
 
-- Melhorar o suporte de navegadores
-
-- Adicionar mais integrações
-
-
-## Funcionalidades
-
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
-
+- Criação do projeto com Vite
+- Configurações do projeto
+- Criação dos components React(Utilizando Radix)
+- Criação da Pagina com os components criados previamente
+- Integração com o backend em NodeJS utilizando axios
 ## Stack utilizada
-
-**Front-end:** React, Redux, TailwindCSS
-
-**Back-end:** Node, Express
-
+React, TailwindCSS, RadixUI, Vite, Typescript, Axios
 
 ## Rodando localmente
 
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/leokazuyukinagatani/nlw-e-sports-frontend
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd nlw-e-sports-frontend
 ```
 
 Instale as dependências
@@ -61,15 +51,13 @@ Inicie o servidor
   npm run dev
 ```
 
+
+## Documentação
+- Design no Figma disponível no link:  [NLW eSports - Figma](https://www.figma.com/file/rE4POnvSJKxAW0Dmx4Weql/NLW-eSports-(Community)?node-id=0%3A1)
+
+
 ## Documentação de cores
-
-| Cor               | Hexadecimal                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
+- Colors no Figma disponível no link : [NLW eSports - Figma](https://www.figma.com/file/rE4POnvSJKxAW0Dmx4Weql/NLW-eSports-(Community)?node-id=58%3A424)
 
 ## Melhorias
 
@@ -80,10 +68,13 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
+- Utilizar Tailwind para estilização
+- Pattern Composition
+- Utilizar Radix 
 
 ## Suporte
 
-Para suporte, mande um email para fake@fake.com ou entre em nosso canal do Slack.
+Para suporte, mande um email para [leokazuyukinagatani@gmail.com](mailto:leokazuyukinagatani@gmail.com?subject=ignitelab-design-system)
 
 
 ## Relacionados
@@ -91,4 +82,3 @@ Para suporte, mande um email para fake@fake.com ou entre em nosso canal do Slack
 Segue alguns projetos relacionados
 
 [Awesome README](https://github.com/matiassingers/awesome-readme)
-
